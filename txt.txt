@@ -1,2 +1,7 @@
-Akash Yadav's
+
 Text File  
+
+{
+  "name" : "akash",
+  "age" : 22
+}
